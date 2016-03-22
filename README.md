@@ -6,7 +6,7 @@
 
 npm install --save in-scrape
 
-##Usage
+## Usage
 
 ```js
 var inScrape = require('in-scrape')
@@ -44,8 +44,7 @@ inScrape.getProfile('path/to/linkedin/public/profile')
     //     dateRange:
     //   }]
     // }
-  })
-  .catch(function(err) {
+  }, function(err) {
     // error
   });
 ```
@@ -98,8 +97,7 @@ inScrape.getProfile('https://in.linkedin.com/in/sachin-bansal-b4178239')
         }
       ]
     };
-  })
-  .catch(function(err) {
+  }, function(err) {
     // error
   });
 ```
