@@ -1,0 +1,21 @@
+{
+  "name": "in-scrape",
+  "version": "0.1.0",
+  "description": "A linkedin profile scraper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "linkedin",
+    "scrape",
+    "scraper",
+    "in-scrape"
+  ],
+  "author": "Sachin Bansal <sachinbansal94@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.3.4",
+    "x-ray": "^2.0.3"
+  }
+}
