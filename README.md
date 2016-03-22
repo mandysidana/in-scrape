@@ -1,15 +1,15 @@
-# in-scrape
+# linkedin-scrape
 
 *A web scraper for fetching the linkedin public profile*
 
 ## Installation
 
-npm install --save in-scrape
+npm install --save linkedin-scrape
 
 ## Usage
 
 ```js
-var inScrape = require('in-scrape')
+var inScrape = require('linkedin-scrape')
 ```
 
 - Get the profile from linkedin URL
