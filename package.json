@@ -1,5 +1,5 @@
 {
-  "name": "linkedin-scrape",
+  "name": "in-scrape",
   "version": "0.1.0",
   "description": "A linkedin profile scraper",
   "main": "index.js",
@@ -10,7 +10,7 @@
     "linkedin",
     "scrape",
     "scraper",
-    "linkedin-scrape"
+    "in-scrape"
   ],
   "author": "Sachin Bansal <sachinbansal94@gmail.com>",
   "license": "MIT",
