@@ -17,5 +17,12 @@
   "dependencies": {
     "bluebird": "^3.3.4",
     "x-ray": "^2.0.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sifiumco/in-scrape.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sifiumco/in-scrape/issues"
   }
 }
