@@ -56,19 +56,22 @@ inScrape.getProfile('https://in.linkedin.com/in/sachin-bansal-b4178239')
   .then(function(profile) {
     // success
     profile = {
-      name: 'Sachin Bansal',
-      headline: 'Senior Developer at Sifium Tech. Pvt. Ltd.',
-      location: 'Noida Area, India',
+      name: 'Mandy Sidana',
+      headline: 'Product Manager at Psychd Analytics',
+      location: 'Gurgaon Area, India',
       experience: [{
-        title: 'Senior Developer',
-        company: 'Sifium',
-        logo: 'https://media.licdn.com/media/AAEAAQAAAAAAAAB5AAAAJDNiNDk0ODlkLTIyYTYtNGMxYS05OGQ3LWYwYjM2MmI5NWE1MQ.png',
-        dateRange: 'June 2015 – Present (10 months)',
-        location: 'Chandigarh Area, India',
+        title: 'Product Manager',
+        company: 'Psychd',
+        logo: 'https://media.licdn.com/media/AAEAAQAAAAAAAB5AAAAJDNiNDk0ODlkLTIyYTYtNGMxYS05OGQ3LWYwYjM2MmI5NWE1MQ.png',
+        dateRange: 'Jan 2015 – Present (11 months)',
+        location: 'Gurgaon Area, India',
         employment: 'current'
       }],
-      summary: 'Web developer',
+      summary: 'Product Manager',
       skills: [
+        'Product Roadmap',
+        'Wireframing',
+        'Prototyping',
         'Node.js',
         'JavaScript',
         'CoffeeScript',
@@ -78,22 +81,14 @@ inScrape.getProfile('https://in.linkedin.com/in/sachin-bansal-b4178239')
         'Redis',
         'HTML',
         'CSS',
-        'Linux',
-        'Java',
-        'PHP',
-        'MySQL',
-        'C++',
-        'C',
-        'Hadoop',
-        'Apache Pig'
       ],
       education: [{
-          school: 'Galgotias College of Engg. and Tech.',
+          school: 'GGSIPU',
           field: 'Bachelor\'s Degree, Computer Science',
-          dateRange: '2012 – 2016'
+          dateRange: '2006 – 2010'
         }, {
-          school: 'Bishop Conrad School',
-          dateRange: '1997 – 2012'
+          school: 'The Lawrence School, Sanawar',
+          dateRange: '2003 – 2005'
         }
       ]
     };
