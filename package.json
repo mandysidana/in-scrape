@@ -12,7 +12,7 @@
     "scraper",
     "in-scrape"
   ],
-  "author": "Sachin Bansal <sachinbansal94@gmail.com>",
+  "author": "Mandeep Singh <mandymu@yahoo.com>",
   "license": "MIT",
   "dependencies": {
     "bluebird": "^3.3.4",
