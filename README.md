@@ -52,7 +52,7 @@ inScrape.getProfile('path/to/linkedin/public/profile')
 - Example:
 
 ```js
-inScrape.getProfile('https://in.linkedin.com/in/sachin-bansal-b4178239')
+inScrape.getProfile('https://in.linkedin.com/in/mandysidana')
   .then(function(profile) {
     // success
     profile = {
